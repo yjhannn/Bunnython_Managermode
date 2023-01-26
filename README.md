@@ -1,5 +1,5 @@
 #Bunnython
-<Manager mode>
+--Manager mode
   
  1. 예약 현황
   - 며칠 간의 예약 현황을 확인할 수 있습니다.
